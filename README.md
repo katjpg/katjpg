@@ -1,1 +1,1 @@
-![kat jpg](https://github.com/user-attachments/assets/01be0cad-98b2-49e7-a3b5-3d4faa8960b7)
+![kat jpg (691 x 200 px)](https://github.com/user-attachments/assets/9ac8289e-ebfc-4d20-8525-8497f5c4ed31)
