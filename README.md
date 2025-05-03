@@ -17,6 +17,7 @@ katjpg $ aboutme
 ```
 
 <div align="center">
-    <img src="https://spotify-widgetify.vercel.app/github?theme=ipod&style=light&color=609dbd" alt="Spotify Now Playing" width="40%" />
-    <img src="https://spotify-widgetify.vercel.app/github?theme=vinyl&style=light" alt="Spotify Now Playing" width="47%" />
-</div>
+   <a href="https://spotify-widgetify.vercel.app/link">
+     <img src="https://spotify-widgetify.vercel.app/github?theme=ipod&style=light&color=609dbd" alt="Spotify Now Playing" width="470" height="250" />
+   </a>
+ </div>
